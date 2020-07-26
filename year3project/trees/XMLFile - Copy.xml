@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<game>
+	<users>
+		<user userid="0" userDepartment="0">
+			<userName>ד"ר מיכאל ישראלי</userName>
+			<userPassword></userPassword>
+		</user>
+	</users>
+	<caseSudies>
+		<case caseid="0" mdTestId="0" answer="false" qseen="false">
+			<patientDetails>
+				<title></title>
+				<content>חולה עם כאבים בחזה שהחלו כשעתיים טרם קבלתו למיון</content>
+			</patientDetails>
+			<patientDetails>
+				<title></title>
+				<content>בדיקת hs-Tn בקבלתו פי 5 מהנורמה</content>
+			</patientDetails>
+			<patientDetails>
+				<title></title>
+				<content>האם צריך לחזור על בדיקה שנייה?</content>
+			</patientDetails>
+		</case>
+		<case caseid="1" mdTestId="0" answer="false" qseen="false">
+				<patientDetails>
+				<title></title>
+				<content>חולה מתייצג עם כאבים בחזה שהחלו כ- 5 שעות טרם קבלתו למיון</content>
+			</patientDetails>
+			<patientDetails>
+				<title></title>
+				<content>האם מספיקה בדיקה אחת של hs-Tn בקבלתו במידה והיא תקינה?</content>
+			</patientDetails>
+		</case>
+		<case caseid="2" mdTestId="1" answer="true" qseen="false">
+			<patientDetails>
+				<title></title>
+				<content>בן 22, התקבל עם שתיית אלכוהול מופרזת ועלייה אקוטית באנזימי כבד</content>
+			</patientDetails>
+			<patientDetails>
+				<title></title>
+				<content>האם יש צורך להשלים בדיקת תפקודי קרישה?</content>
+			</patientDetails>
+		</case>
+		<case caseid="3" mdTestId="2" answer="false" qseen="false">
+			<patientDetails>
+				<title></title>
+				<content>בן 80, ידוע על אי ספיקת לב HFrEF, התקבל עם קוצר נשימה בצקות ברגליים, גודש ורידי צוואר, חרחורים לחים בבסיסי הריאות</content>
+			</patientDetails>
+			<patientDetails>
+				<title></title>
+				<content>האם חייבים להיעזר בבדיקת NTproBNP?</content>
+			</patientDetails>
+		</case>
+		<case caseid="4" mdTestId="3" answer="true" qseen="false">
+			<patientDetails>
+				<title></title>
+				<content>בת 40, ברקע Rheumatoid Arthritis, מתייצגת עם החמרה בכאבי פרקים,</content>
+			</patientDetails>
+			<patientDetails>
+				<title></title>
+				<content>האם חייבים להיעזר בבדיקת NTproBNP?</content>
+			</patientDetails>
+		</case>
+		<case caseid="5" mdTestId="4" answer="false" qseen="false">
+			<patientDetails>
+				<title></title>
+				<content>בן 70, פנה ב- 11.2019, ברקע יתר לחץ דם וסכרת, מאושפז עם מחלת חום ותסמינים נשימתיים מעל שבועיים,</content>
+			</patientDetails>
+			<patientDetails>
+				<title></title>
+				<content>האם צריך לקחת בדיקה לשפעת?</content>
+			</patientDetails>
+		</case>
+		<case caseid="6" mdTestId="5" answer="false" qseen="false">
+			<patientDetails>
+				<title>בן 75, פנה בעקבות החמרה ב- COPD שמבטאת בקוצר נשימה ושיעול ליחתי טורדני צהוב</title>
+				<content></content>
+			</patientDetails>
+			<patientDetails>
+				<title></title>
+				<content>האם יש צורך להתקדם לתרבית כיח?</content>
+			</patientDetails>
+		</case>
+	</caseSudies>
+</game>
+
+
+
+
+
+<?xml version="1.0" encoding="utf-8" ?>
+<game>
+	<users>
+		<user userid="0" userDepartment="0">
+			<userName>ד"ר מיכאל ישראלי</userName>
+			<userPassword></userPassword>
+		</user>
+	</users>
+	<caseSudies>
+		<case caseid="0" mdTestId="0" answer="false" qseen="false">
+			<patientDetails>
+				<title></title>
+				<content>חולה עם כאבים בחזה שהחלו כשעתיים טרם קבלתו למיון</content>
+			</patientDetails>
+			<patientDetails>
+				<title></title>
+				<content>בדיקת hs-Tn בקבלתו פי 5 מהנורמה</content>
+			</patientDetails>
+			<patientDetails>
+				<title></title>
+				<content>האם צריך לחזור על בדיקה שנייה?</content>
+			</patientDetails>
+		</case>
+		<case caseid="1" mdTestId="0" answer="false" qseen="false">
+			<caseCategory ctgid="0">בדיקת hs-Tn</caseCategory>
+			<patientDetails>
+				<title></title>
+				<content>חולה מתייצג עם כאבים בחזה שהחלו כ- 5 שעות טרם קבלתו למיון</content>
+			</patientDetails>
+			<patientDetails>
+				<title></title>
+				<content>האם מספיקה בדיקה אחת של hs-Tn בקבלתו במידה והיא תקינה?</content>
+			</patientDetails>
+		</case>
+	</caseSudies>
+	<medicalTests>
+		<mdTest mdTestId="0">בדיקת hs-Tn</mdTest>
+	</medicalTests>
+</game>
